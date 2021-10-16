@@ -1,0 +1,10 @@
+101 anurag 100
+102 bhushan 200
+103 chirag 200
+104 ramesh 400
+105 suresh 250
+106 rajesh 300
+107 jack 350
+108 john 399
+109 harry 101
+110 chris 449
